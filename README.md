@@ -357,7 +357,7 @@ It provides a strong foundation for progressing toward more advanced NLP techniq
 
 ## 👩‍💻 Author
 
-### Priyal Sabharwal
+### Ramandeep Kaur
 
 **B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning**
 
